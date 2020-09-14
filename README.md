@@ -1,2 +1,4 @@
 # hello-world
-Store and share ideas and resources
+Hi everyone!
+
+I'm Clarie, and am experimenting how to use github here:)
